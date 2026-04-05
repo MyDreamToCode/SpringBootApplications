@@ -1,0 +1,15 @@
+target/
+*.log
+logs/
+.git
+.gitignore
+.vscode/
+.idea/
+node_modules/
+.DS_Store
+mvnw
+mvnw.cmd
+.settings/
+*.iml
+src/test/
+
